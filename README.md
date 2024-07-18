@@ -10,3 +10,6 @@ funcionara correctamente una vez se alcance la partida número "numeroMaximo".
   un número del 1 al 10.
   numeroDeJuegosPermitidos, es el número de veces que podemos dar al botón "Nuevo Juego", una vez se supere ya toca reimicar la pagina.
 # El resto de variables se dejan igual;
+
+# ¿Quieres Jugar?
+Ingresa al siguiente enlace: https://rafaelvalencia127.github.io/juego-Secreto/ 
